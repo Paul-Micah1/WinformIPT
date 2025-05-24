@@ -1,0 +1,16 @@
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\bin\Debug\net8.0-windows\IPTWinform.exe
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\bin\Debug\net8.0-windows\IPTWinform.deps.json
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\bin\Debug\net8.0-windows\IPTWinform.runtimeconfig.json
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\bin\Debug\net8.0-windows\IPTWinform.dll
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\bin\Debug\net8.0-windows\IPTWinform.pdb
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.Form1.resources
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.dll
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\refint\IPTWinform.dll
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.pdb
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\IPTWinform.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\IPTWinform\IPTWinform\obj\Debug\net8.0-windows\ref\IPTWinform.dll
